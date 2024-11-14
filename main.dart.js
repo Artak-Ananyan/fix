@@ -50085,7 +50085,7 @@ L(a){var s,r=null,q=t.w,p=A.al(a,r,q).w,o=A.al(a,r,q).w,n=A.al(a,r,q).w
 q=A.al(a,r,q).w
 s=this.d
 s===$&&A.b()
-return A.abL(r,A.bE(r,A.ik(new A.z0(A.au5("assets/location.json",r,r,r,r,r),new A.ajs(this,a),s,r,r,r,r,r,r,r,q.a.a,n.a.b,r,r,r,r,r,r,r,r),r,r),B.m,new A.y(4294440951),r,r,p.a.b,r,r,o.a.a))}}
+return A.abL(r,A.bE(r,A.ik(new A.z0(A.au5("assets/briliant.json",r,r,r,r,r),new A.ajs(this,a),s,r,r,r,r,r,r,r,q.a.a,n.a.b,r,r,r,r,r,r,r,r),r,r),B.m,new A.y(4294440951),r,r,p.a.b,r,r,o.a.a))}}
 A.ajs.prototype={
 $1(a){var s,r=this.a.d
 r===$&&A.b()
