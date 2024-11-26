@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "24c8828742dda75c902b8ff0817364d0",
-"index.html": "ac2999b5dfe6f3fda457ca082b32b2a7",
-"/": "ac2999b5dfe6f3fda457ca082b32b2a7",
-"main.dart.js": "46d555a4db84e0898d6b016b9b4ac3d2",
-"flutter.js": "c71a09214cb6f5f8996a531350400a9a",
+"index.html": "2437d0276f1a05b2fab5ec91a6c8aaed",
+"/": "2437d0276f1a05b2fab5ec91a6c8aaed",
+"main.dart.js": "0a6f37f0bb73d3bb0fac57aef2a0b046",
 "README.md": "3d6b0cf9188b445c6a4dc583c51ee7fe",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -339,17 +338,7 @@ const RESOURCES = {"version.json": "24c8828742dda75c902b8ff0817364d0",
 "assets/assets/krant.png": "c2e40331fb0e37ade6eec9a8d28300ea",
 "assets/assets/back.png": "63de412f8bf860cb7c062fe2ef8bcc08",
 "assets/assets/pink_rotate_phone.json": "83254c773ae2c5d45d2ed9280429971a",
-"assets/assets/armcheer.png": "a8b807fa17eb3b1a4b0096eb6c4bf01a",
-"canvaskit/skwasm.js": "445e9e400085faead4493be2224d95aa",
-"canvaskit/skwasm.js.symbols": "741d50ffba71f89345996b0aa8426af8",
-"canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
-"canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
-"canvaskit/chromium/canvaskit.js.symbols": "4525682ef039faeb11f24f37436dca06",
-"canvaskit/chromium/canvaskit.js": "43787ac5098c648979c27c13c6f804c3",
-"canvaskit/chromium/canvaskit.wasm": "f5934e694f12929ed56a671617acd254",
-"canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
-"canvaskit/canvaskit.wasm": "3d2a2d663e8c5111ac61a46367f751ac",
-"canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03"};
+"assets/assets/armcheer.png": "a8b807fa17eb3b1a4b0096eb6c4bf01a"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
